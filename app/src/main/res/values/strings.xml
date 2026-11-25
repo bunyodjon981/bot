@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bot Builders UZ</string>
+    <string name="brand_title">BOT BUILDERS uz</string>
+    <string name="brand_subtitle">24/7 Python Telegram Bot Studio</string>
+    <string name="tab_open_bot">BOT OCHISH</string>
+    <string name="tab_my_bots">BOTLARIM</string>
+    <string name="tab_files">FAYLLAR</string>
+    <string name="tab_wallet">HISOB</string>
+    <string name="currency_som">so\'m</string>
+    <string name="price_free">0 so\'m (Bepul)</string>
+    <string name="enter_token_title">Tokeningizni kiriting</string>
+    <string name="create_bot_action">Yaratish</string>
+    <string name="open_bot_action">BOT OCHISH</string>
+    <string name="notification_channel_name">24/7 Bot Xizmati</string>
+    <string name="notification_channel_desc">Telegram Python botlarini fonda 24/7 rejimida ishlatish xizmati</string>
+</resources>

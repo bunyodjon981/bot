@@ -1,0 +1,6 @@
+{
+  "name": "Bot Builders UZ",
+  "description": "Telegram Python botlarini yaratish va telefonda 24/7 fon rejimida ishga tushirish ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
